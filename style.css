@@ -62,7 +62,7 @@ li {
 }
 
 .cover {
-  background: url(./img/cover.jpg) no-repeat center center;
+  background: url(./img/cover.webp) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
